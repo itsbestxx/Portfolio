@@ -3,7 +3,7 @@ Completed Statistics and Data Science MicroMasters Program, MITx by MIT. You can
 - Certificate: https://credentials.edx.org/credentials/593f28b6b96149c9a2f490ec35442066
 
 Completed Deep Learning Specialiazation by DeepLearning.AI
-- Certificate: https://www.coursera.org/account/accomplishments/specialization/9ENSA92737B9
+- Certificate: coursera.org/verify/specialization/9ENSA92737B
 
 Completed Machine Learning Engineering for Production (MLOps) by DeepLearning.AI and Robert Crowe (Tensorflow Developer)
 - Certificate: https://www.coursera.org/account/accomplishments/specialization/KRQWR5UT6T73
